@@ -1,7 +1,7 @@
-# AbastoStock - Gestión de Inventario para Tiendas de Barrio
+# Gestión de Inventario para Tiendas de Barrio
 
 ### Descripción
-AbastoStock es una aplicación web diseñada específicamente para tenderos y dueños de pequeños comercios locales. Permite digitalizar el control de su mercancía, registrar las ventas diarias de forma rápida y recibir alertas automáticas cuando el stock de un producto esté por agotarse, optimizando las compras con sus proveedores.
+Aplicación web diseñada específicamente para tenderos y dueños de pequeños comercios locales. Permite digitalizar el control de su mercancía, registrar las ventas diarias de forma rápida y recibir alertas automáticas cuando el stock de un producto esté por agotarse, optimizando las compras con sus proveedores.
 
 ---
 
